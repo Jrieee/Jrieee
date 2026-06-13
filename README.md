@@ -11,7 +11,7 @@
 ---
 
 ### 💫 About Me
-- 🎓 **Education:** Information Technology student, passionate about building robust software architecture.
+- 🎓 **Education:** Undergraduate Information Technology Student at University of Lampung (2023 - Present).
 - 💻 **Core Focus:** Specializing in **Backend Web Development** and modern system ecosystems.
 - 🌐 **Current Exploration:** Deepening my knowledge in **Network Systems Engineering**, server infrastructure, and network protocols.
 - 🎯 **Objective:** Constructing secure, efficient, and scalable backend applications while bridging them with optimized network architectures.
@@ -36,18 +36,9 @@
 
 ---
 
-### 📊 GitHub Analytics
-
+### 🎮 My Contribution Snake
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Jrieee&show_icons=true&theme=tokyonight&hide_border=true&card_width=490" alt="Fajri's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Jrieee&layout=compact&theme=tokyonight&hide_border=true&card_width=490" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jrieee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github.com/Jrieee/Jrieee/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
