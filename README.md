@@ -1,4 +1,13 @@
 ## Hi there 👋
+![Banner](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Hi,%20I'm%20Fajri&fontSize=70)
+
+### 🛠️ Tech Stack & Tools
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+### 📊 GitHub Analytics
+
+![Fajri's GitHub stats](https://github-readme-stats.vercel.com/api?username=Jrieee&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.com/api/top-langs/?username=Jrieee&layout=compact&theme=radial)
 
 <!--
 **Jrieee/Jrieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
